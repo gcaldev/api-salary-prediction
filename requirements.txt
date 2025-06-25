@@ -1,1 +1,5 @@
 fastapi[all]
+numpy==1.23.5
+scikit-learn==1.2.2
+tpot==0.11.7
+category_encoders==2.6.1
